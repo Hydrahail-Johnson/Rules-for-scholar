@@ -1,0 +1,26 @@
+[AutoProxy rule for scholar common]
+! HomePage: https://github.com/hydrahailnuaa/Rules-for-scholar
+! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+!
+! Rules for scholar is used to help you get the
+! access to view the scholar websites by your proxy. 
+! We try our best to keep the list up to date. Please
+! contact us regarding URL submission / removal,
+! or suggestion / enhancement at issue tracker:
+! https://github.com/hydrahailnuaa/Rules-for-scholar/issues/.
+
+!--------- Chinese Press ---------
+||cnki.net
+||cqvip.com
+||wanfangdata.com.cn
+||chaoxing.com
+||duxiu.com
+||blyun.com
+
+!--------- Oversea Press ---------
+||sciencedirect.com
+||springer.com
+||cambridge.org
+||nature.com
+||acs.org
+||pnas.org
