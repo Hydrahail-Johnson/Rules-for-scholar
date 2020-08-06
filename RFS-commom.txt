@@ -20,8 +20,26 @@
 
 !--------- Oversea Press ---------
 ||sciencedirect.com
+||elsevier.com
+||els-cdn.com
+||sciencedirectassets.com
 ||springer.com
+||springernature.com
 ||cambridge.org
 ||nature.com
 ||acs.org
 ||pnas.org
+||ieee.org
+||wiley.com
+||nature.com
+||sciencemag.org
+||osapublishing.org
+||iop.com
+||webofknowledge.com
+||rsc.org
+||taylorfrancis.com
+||begellhouse.com
+||iop.org
+||ebscohost.com
+||aiaa.org
+||taylorfrancis.com
