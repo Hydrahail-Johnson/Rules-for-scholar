@@ -23,6 +23,7 @@
 ||elsevier.com
 ||els-cdn.com
 ||sciencedirectassets.com
+||evise.com
 ||springer.com
 ||springernature.com
 ||cambridge.org
