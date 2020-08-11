@@ -39,6 +39,7 @@
 ||webofknowledge.com
 ||rsc.org
 ||rsc-cdn.org
+||crossref.org
 ||taylorfrancis.com
 ||begellhouse.com
 ||iop.org
