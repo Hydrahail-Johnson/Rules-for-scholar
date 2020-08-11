@@ -38,6 +38,7 @@
 ||iop.com
 ||webofknowledge.com
 ||rsc.org
+||rsc-cdn.org
 ||taylorfrancis.com
 ||begellhouse.com
 ||iop.org
