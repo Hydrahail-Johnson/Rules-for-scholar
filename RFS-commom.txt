@@ -12,6 +12,8 @@
 
 !--------- Chinese Press ---------
 ||cnki.net
+||cnki.com.cn
+||cnki.com
 ||cqvip.com
 ||wanfangdata.com.cn
 ||chaoxing.com
