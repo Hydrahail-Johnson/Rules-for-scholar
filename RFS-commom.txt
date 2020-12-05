@@ -10,6 +10,9 @@
 ! submission / removal, or suggestion / enhancement at issue 
 ! tracker: https://github.com/hydrahailnuaa/Rules-for-scholar/issues/.
 
+!--------- NUAA network ---------
+||nuaa.edu.cn
+
 !--------- Chinese Press ---------
 ||cnki.net
 ||cnki.com.cn
