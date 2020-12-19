@@ -26,6 +26,7 @@
 ||sciencereading.cn
 
 !--------- Oversea Press ---------
+||webofknowledge.com
 ||sciencedirect.com
 ||elsevier.com
 ||els-cdn.com
