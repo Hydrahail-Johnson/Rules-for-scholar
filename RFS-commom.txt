@@ -27,6 +27,7 @@
 
 !--------- Oversea Press ---------
 ||webofknowledge.com
+||clarivate.com
 ||sciencedirect.com
 ||elsevier.com
 ||els-cdn.com
@@ -44,7 +45,6 @@
 ||sciencemag.org
 ||osapublishing.org
 ||iop.com
-||webofknowledge.com
 ||rsc.org
 ||rsc-cdn.org
 ||crossref.org
