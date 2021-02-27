@@ -1,5 +1,5 @@
 [AutoProxy rule for scholar common]
-! HomePage: https://github.com/hydrahailnuaa/Rules-for-scholar
+! HomePage: https://github.com/Hydrahail-Johnson/Rules-for-scholar
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 !
 ! This rules helps you to switch the proxy rules of your 
