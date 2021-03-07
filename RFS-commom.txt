@@ -25,9 +25,9 @@
 !--------- Oversea Press ---------
 ||acs.org
 ||aiaa.org
-||astm.org
 ||begellhouse.com
 ||cambridge.org
+||compass.astm.org
 ||clarivate.com
 ||crossref.org
 ||ebscohost.com
